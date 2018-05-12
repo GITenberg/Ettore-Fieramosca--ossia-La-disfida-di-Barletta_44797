@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/41807
     wikipedia: http://it.wikipedia.org/wiki/Massimo_d%27Azeglio
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44797#Ettore-Fieramosca--ossia-La-disfida-di-Barletta
 gutenberg_bookshelf: IT Romanzi storici
 gutenberg_issued: '2014-01-30'
 gutenberg_type: Text
