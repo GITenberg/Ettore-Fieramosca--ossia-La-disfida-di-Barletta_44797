@@ -1,0 +1,32 @@
+_repo: Ettore-Fieramosca--ossia-La-disfida-di-Barletta_44797
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44797-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Azeglio, Massimo d'
+    aliases:
+    - D'Azeglio, M. (Massimo)
+    - Azeglio, Massimo Tapparelli, marchese d'
+    - D'Azeglio, Massimo
+    birthdate: 1798
+    deathdate: 1866
+    gutenberg_agent_id: '41807'
+    url: http://www.gutenberg.org/2009/agents/41807
+    wikipedia: http://it.wikipedia.org/wiki/Massimo_d%27Azeglio
+description: ''
+gutenberg_bookshelf: IT Romanzi storici
+gutenberg_issued: '2014-01-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44797'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Barletta (Italy) -- History -- Siege, 1503 -- Fiction'
+title: 'Ettore Fieramosca: ossia, La disfida di Barletta'
+url: http://www.gutenberg.org/ebooks/44797
